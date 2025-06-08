@@ -64,8 +64,6 @@ I'm a Data & AI Engineer passionate about end-to-end ML pipelines — from featu
 
 - 🌐 [pedroiswebsite.com](https://pedroiswebsite.com)
 - 📧 [zy475@cornell.edu](mailto:zy475@cornell.edu)
-- 📅 Book a meeting: *[Insert Calendly link]*
 
 ---
 
-> *Curious about LLM evals, dashboarding, or data storytelling? Let’s chat!*
