@@ -55,7 +55,7 @@ I'm a Data & AI Engineer passionate about end-to-end ML pipelines — from featu
 
 ## 🧩 LeetCode Progress
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/pedroisme?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/pedroisme/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/pedroisme?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/pedroisme/)
 
 ---
 
