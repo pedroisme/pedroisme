@@ -54,13 +54,9 @@ I'm a Data & AI Engineer passionate about end-to-end ML pipelines — from featu
 ---
 
 
-## 🧩 LeetCode Progress (Other Account)
+## 🧩 LeetCode Progress
 
-🟢 Easy: 389 / 642  
-🟠 Medium: 226 / 746  
-🔴 Hard: 26 / 936  
-✅ Total Solved: 641  
-🔗 [LeetCode Profile (inactive)](https://leetcode.com/u/pedroisme/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/pedroisme?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/pedroisme/)
 
 ---
 
