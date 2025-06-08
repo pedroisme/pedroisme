@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Pedro (Zeyang Yu)
+# 👋 Hi, I’m Pedro (Zeyang Yu) — aka "the guy who yells at LLMs until they behave"
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pedroisme)
 [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me)](https://pedroiswebsite.com)
@@ -8,55 +8,43 @@
 
 🎓 **Cornell MPS in Information Science** | 📊 **UC San Diego B.S. in Data Science & Economics**
 
-I'm a Data & AI Engineer passionate about end-to-end ML pipelines — from feature engineering to deploying LLMs and building interactive dashboards. Currently mastering information science at Cornell, I bring practical, real-world insight from internships at American Express and Accenture.
+I turn coffee ☕ into machine learning pipelines and chaotic JSON into neatly labeled dashboards. I speak fluent Python 🐍, a bit of SQL, and occasionally scream at my models when they output `"NoneType"`.
 
 ---
 
-## 🚀 Skills Snapshot
+## 🧠 What I’m Working On (besides debugging)
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=flat)
-![LangChain](https://img.shields.io/badge/-LangChain-3E74A5?style=flat)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+- 🤖 Built an LLM evaluation framework using 21+ metrics (aka: gave GPT homework and graded it)
+- 🛒 NLP pipeline for e-commerce chats — because customer support deserves an upgrade
+- 🕵️‍♂️ Built a classifier to detect digital transformation... and my own sleep deprivation
 
 ---
 
-## 🧠 What I’ve Been Working On
+## 🚀 Tech Stack
 
-### 🔹 AI Engineer @ American Express x Cornell
-- 🧹 Automated parsing of 10K+ e-commerce chats into structured JSON
-- 🧠 Built LLM pipelines using GPT, LangChain, and LLaMA 3.2 with >80% response quality
-- 📊 Developed a 21-metric evaluation framework using MPNet and BGE-M3
-
-### 🔹 Data Analyst Intern @ Accenture
-- 🔍 Processed 45,843 annual reports with pandas & regex
-- 🌲 Built ML models (Random Forest, Logistic Regression) for classification
-- 📈 Delivered trend dashboards using Tableau and Power BI
+| I Know      | I Love     | I Fear     |
+|------------|------------|------------|
+| Python, SQL, Pandas | PyTorch, LangChain | `ValueError: too many values to unpack` |
+| GCP, Hive, BigQuery | Tableau, Power BI | Debugging regex at 2AM |
+| Git, Bash | Markdown emojis | Merge conflicts 🔥 |
 
 ---
 
-## 📈 Side Projects
-
-- **A/B Testing & UX**: Ran controlled experiments that improved product use by 12 basis points.
-- **Yelp BI Dashboard**: Modeled 1.3M records and visualized sentiment trends with NLTK & Tableau.
-- **ETL Pipelines**: Integrated large datasets into MySQL and visualized KPIs like CTR & DAU.
-
----
-
-## 📊 GitHub Stats
-
-![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedroisme&show_icons=true&theme=tokyonight)
-![Pedro's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pedroisme&theme=tokyonight)
-
----
-
-
-## 🧩 LeetCode Progress
+## 🧩 LeetCode (in another life...)
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/pedroisme?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/pedroisme/)
+
+---
+
+## 💬 Fun Facts
+
+- 🏀 I analyze data by day and play pick-up basketball like it’s a Kaggle comp at night
+- 🔄 I once wrote a recursive function... and then recursively regretted it
+- 📉 My love life has fewer parameters than my models, but just as many hyperparameters
+
+---
+
+> *“Why do I do data science? Because therapy is expensive.” — probably me*
 
 ---
 
@@ -64,6 +52,6 @@ I'm a Data & AI Engineer passionate about end-to-end ML pipelines — from featu
 
 - 🌐 [pedroiswebsite.com](https://pedroiswebsite.com)
 - 📧 [zy475@cornell.edu](mailto:zy475@cornell.edu)
+- 📅 [Book a meeting](#) (I promise I won’t bring a Jupyter notebook to it... maybe)
 
 ---
-
