@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Pedro (Zeyang Yu) — aka "the guy who yells at LLMs until they behave"
+# 👋 Hi, I’m Pedro (Zeyang Yu) 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pedroisme)
 [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me)](https://pedroiswebsite.com)
