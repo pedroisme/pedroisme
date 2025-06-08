@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Pedro (Zeyang Yu) 
+# 👋 Hi, I’m Pedro (Zeyang Yu)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pedroisme)
 [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me)](https://pedroiswebsite.com)
@@ -6,17 +6,18 @@
 
 ---
 
-🎓 **Cornell MPS in Information Science** | 📊 **UC San Diego B.S. in Data Science & Economics**
+🎓 **Master’s in Information Science @ Cornell**  
+📊 **B.S. in Data Science & Economics @ UC San Diego**
 
-I turn coffee ☕ into machine learning pipelines and chaotic JSON into neatly labeled dashboards. I speak fluent Python 🐍, a bit of SQL, and occasionally scream at my models when they output `"NoneType"`.
+I’m a data and AI engineer with a focus on building intelligent systems that blend NLP, machine learning, and scalable data pipelines. I thrive at the intersection of product impact and model performance — translating noisy, unstructured data into clear insights and robust models.
 
 ---
 
-## 🧠 What I’m Working On (besides debugging)
+## 🧠 What I’m Working On
 
-- 🤖 Built an LLM evaluation framework using 21+ metrics (aka: gave GPT homework and graded it)
-- 🛒 NLP pipeline for e-commerce chats — because customer support deserves an upgrade
-- 🕵️‍♂️ Built a classifier to detect digital transformation... and my own sleep deprivation
+- 🤖 Developed a comprehensive LLM evaluation framework using 21+ semantic and structural metrics
+- 🛒 Engineered an NLP pipeline for e-commerce support chat analysis and automation
+- 🧠 Built classifiers to assess digital transformation maturity in enterprise reporting data
 
 ---
 
